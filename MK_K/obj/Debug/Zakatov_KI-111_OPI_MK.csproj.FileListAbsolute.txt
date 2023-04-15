@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\MK_K\MK_K\bin\Debug\MK_BD.mdf
+C:\Users\User\Desktop\MK_K\MK_K\bin\Debug\MK_BD_log.ldf
+C:\Users\User\Desktop\MK_K\MK_K\bin\Debug\Zakatov_KI-111_OPI_MK.exe.config
+C:\Users\User\Desktop\MK_K\MK_K\bin\Debug\Zakatov_KI-111_OPI_MK.exe
+C:\Users\User\Desktop\MK_K\MK_K\bin\Debug\Zakatov_KI-111_OPI_MK.pdb
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\MK_K.Form1.resources
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\MK_K.Properties.Resources.resources
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.exe
+C:\Users\User\Desktop\MK_K\MK_K\obj\Debug\Zakatov_KI-111_OPI_MK.pdb

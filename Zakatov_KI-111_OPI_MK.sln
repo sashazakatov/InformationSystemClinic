@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zakatov_KI-111_OPI_MK", "MK_K\Zakatov_KI-111_OPI_MK.csproj", "{A3835347-608C-4972-8F2B-90C7E9CA9BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3835347-608C-4972-8F2B-90C7E9CA9BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3835347-608C-4972-8F2B-90C7E9CA9BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3835347-608C-4972-8F2B-90C7E9CA9BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3835347-608C-4972-8F2B-90C7E9CA9BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2361E3DF-9BEF-4464-AE59-707209723721}
+	EndGlobalSection
+EndGlobal
